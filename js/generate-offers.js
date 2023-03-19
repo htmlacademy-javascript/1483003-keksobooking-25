@@ -70,6 +70,7 @@ const OFFER_PHOTOS = [
 // Тип предлагаемого жилья
 const OFFER_TYPES = ['palace', 'flat', 'house', 'bungalow', 'hotel'];
 
+// Время заселения/выселения
 const OFFER_CHECKINS = ['12:00', '13:00', '14:00'];
 const OFFER_CHECKOUTS = ['12:00', '13:00', '14:00'];
 
